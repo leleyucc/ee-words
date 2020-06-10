@@ -37,4 +37,14 @@
 18. punctuation
 
 19. sentence 
+
+20. perfunctory
+
+21. semantic 
+
+22. concise
+
+23. evocative
+
+24. brevity
 ```
