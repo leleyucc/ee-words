@@ -47,4 +47,14 @@
 23. evocative
 
 24. brevity
+
+25. stutter
+
+26. appropriate 
+
+27. canonical 
+
+28. convention 
+
+29. semicolon
 ```
